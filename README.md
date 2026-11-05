@@ -6,9 +6,16 @@ This repository contains Verilog digital circuit implementations targeting the D
 
 | Project | Topic |
 |---|---|
+| [project_01_led_blinker](./project_01_led_blinker) | LED blinker |
+| [bcd_digit_project_1](./bcd_digit_project_1) | Single BCD digit counter |
 | [basys3_4digit_bcd](./basys3_4digit_bcd) | Multiplexed 4-digit BCD counter |
+| [stopwatch_basys3](./stopwatch_basys3) | Stopwatch |
+| [shift_register_4bit](./shift_register_4bit) | 4-bit shift register |
 | [3bit-lfsr-basys3](./3bit-lfsr-basys3) | 3-bit LFSR |
 | [Basys3_FSM_Moore_areset](./Basys3_FSM_Moore_areset) | Moore FSM with asynchronous reset |
+| [basys3_fsm_onehot](./basys3_fsm_onehot) | FSM with one-hot state encoding |
+| [fsm_3state_detector](./fsm_3state_detector) | 3-state FSM detector |
+| [serial_receiver_fsm](./serial_receiver_fsm) | Serial receiver FSM |
 
 ### 4-Digit Multiplexed BCD Counter (`basys3_4digit_bcd`)
 
